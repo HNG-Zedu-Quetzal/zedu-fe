@@ -28,7 +28,7 @@ export const zeduQuetzalContributors: Contributor[] = [
   { name: "Ajala Oladunsi Esther", username: "Oladunsi ajala" },
   { name: "Ken Osian", username: "kenosian" },
   { name: "benita idachaba", username: "benita idachaba" },
-  { name:"Oduola Fawaz", username:"Fawizzy"},
+  { name: "Oduola Fawaz", username: "Fawizzy" },
   { name: "Fakile Razaq", username: "ArrJay" },
   { name: "Zainab Enifeni", username: "Eza" },
   { name: "Temilade Ajiboye", username: "Temilade Ajiboye" },

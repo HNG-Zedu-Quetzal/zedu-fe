@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { ContributorCard } from "../../_components/contributors/ContributorCard";
-import { zeduQuetzalContributors } from "~/data/zedu-quetzal-contributors";
+import { zeduQuetzalContributors } from "./zedu-quetzal-contributors";
 import { siteUrl } from "~/lib/env-urls";
 
 export const metadata: Metadata = {

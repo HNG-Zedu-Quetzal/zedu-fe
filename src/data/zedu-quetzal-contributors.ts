@@ -55,4 +55,5 @@ export const zeduQuetzalContributors: Contributor[] = [
   { name: "Joshua Emmanuel", username: "Joshua" },
   { name: "JOSIAH ACHESE", username: "JOSIAH" },
   { name: "Annie", username: "anniedevkiller" },
+  { name: "Bayode Manuel", username: "Senior Man" },
 ];

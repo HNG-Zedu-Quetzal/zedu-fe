@@ -56,4 +56,5 @@ export const zeduQuetzalContributors: Contributor[] = [
   { name: "JOSIAH ACHESE", username: "JOSIAH" },
   { name: "Annie", username: "anniedevkiller" },
   { name: "Michael Ndianaobong Churchill", username: "D-Gen" },
+  { name: "Weenah", username: "weenah-hub" },
 ];

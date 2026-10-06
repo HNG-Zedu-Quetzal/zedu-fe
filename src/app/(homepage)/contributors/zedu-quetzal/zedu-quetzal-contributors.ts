@@ -24,7 +24,7 @@ export const zeduQuetzalContributors: Contributor[] = [
   { name: "Okorie winner", username: "Okorie winner" },
   { name: "Paul Folorunsho", username: "Paul Folorunsho" },
   { name: "Ibiyemi", username: "Ibiyemi" },
-  { name: "Nsisong Uko", username: "Nsisong Uko" },
+  { name: "Nsisong Uko", username: "NsisongUko" },
   { name: "Ajala Oladunsi Esther", username: "Oladunsi ajala" },
   { name: "Ken Osian", username: "kenosian" },
   { name: "benita idachaba", username: "benita idachaba" },
